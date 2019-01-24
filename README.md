@@ -15,4 +15,5 @@ http://0.0.0.0:5000/ls/home
 ```
 
 # The result
-[!output](res/output.png)
+
+![output](res/output.png)
