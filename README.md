@@ -2,7 +2,7 @@
 
 ```
 # install requirements (run it once)
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # run the app
 python app.py
